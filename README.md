@@ -1,7 +1,11 @@
-- 👋 Hi, I’m @Golby
-- 👀 I’m interested in Unity game development
-- 🌱 I’m currently learning Unity 2d
-- 📫 How to reach me discord: Golby#1897
+Hey, I'm Golby
+
+Currently learning Unity and C#
+
+DM for more 😙
+Golby#1897
+
+
 
 <!---
 RealGolby/RealGolby is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
