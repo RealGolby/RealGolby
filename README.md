@@ -1,6 +1,6 @@
 Hey, I'm Golby
 
-OwOner of Terra Studios 🏢
+OwOner of Ethernity Studios 🏢
 
 Currently learning Unity and C#
 
