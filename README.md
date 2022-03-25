@@ -1,5 +1,7 @@
 Hey, I'm Golby
 
+OwOner of Terra Studios 🏢
+
 Currently learning Unity and C#
 
 DM for more 😙
