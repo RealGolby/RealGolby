@@ -58,7 +58,7 @@
 <a href="https://twitter.com/RealGolby" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
-  <img scr=https://global-uploads.webflow.com/5e157548d6f7910beea4e2d6/62a07b53139aec4c1fd07771_discord-logo.png alt=discord style="margin-bottom: 5px">
+  <p>Discord Golby#1897</p>
 </div>  
   
 
