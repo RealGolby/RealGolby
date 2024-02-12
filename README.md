@@ -1,16 +1,13 @@
 # **<div align="center">Hey! I'm Golby</div>**  
   
 
-- ## I'm Unity developer 💻  
+- ## I'm Unreal engine developer 💻  
   
 
-- ### Currently re-creating Valorant 🔫  
+- ### Currently working on game Attheria 🔫  
   
 
 - ### Owner of Ethernty Studios 😇  
-  
-
-- Future project - OpenWorld survival pvp game 🔮  
   
 
 <br/>  
